@@ -84,7 +84,8 @@ To run any simulation:
 4. Observe the waveform and console output to verify correct behavior
 
 ## Waveform
-![Simulation Waveform]("C:\Users\deept\OneDrive\Pictures\Screenshots\Screenshot 2024-11-09 192030.png")
+<img width="1543" height="420" alt="Screenshot 2024-11-09 192030" src="https://github.com/user-attachments/assets/2146d535-5301-492f-853d-f9aad78205ae" />
+
 
 The waveform shows the input bit stream (din), clock (clk), reset (rst), and output (dout). The output pulses high whenever the "1010" sequence is detected in the input.
 
