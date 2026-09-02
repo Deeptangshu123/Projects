@@ -3,6 +3,7 @@
 .runs/
 .hw/
 .sim/
+.srcs/
 *.log
 *.jou
 *.str

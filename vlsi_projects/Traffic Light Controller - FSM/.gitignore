@@ -1,0 +1,41 @@
+# Xilinx Vivado
+.cache/
+.hw/
+.ip_user_files/
+.sim/
+.gen/
+.srcs/
+
+*.jou
+*.log
+*.str
+*.pb
+*.dcp
+*.rpt
+
+# Vivado backup/temp files
+*.backup
+*.tmp
+
+# Simulation generated files
+*.wdb
+*.wcfg
+
+# Synthesis/implementation generated files
+*.bit
+*.bin
+*.ltx
+*.mcs
+
+# OS files
+Thumbs.db
+desktop.ini
+.DS_Store
+
+# VS Code
+.vscode/
+
+# Temporary files
+*.swp
+*.swo
+*~
