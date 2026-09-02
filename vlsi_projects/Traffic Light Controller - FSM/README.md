@@ -80,6 +80,7 @@ To verify the traffic light controller functionality:
 
 ## Waveform
 
+<img width="1562" height="777" alt="tlc_fsm" src="https://github.com/user-attachments/assets/33e2d433-a378-4d5d-8cf2-251bc4fe4699" />
 
 Expected simulation waveform shows:
 - Clock signal (`i_clk_100M`) running at 100 MHz
