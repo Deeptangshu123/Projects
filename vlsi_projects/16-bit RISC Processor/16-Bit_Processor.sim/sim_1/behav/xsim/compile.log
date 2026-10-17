@@ -1,0 +1,14 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/deept/16-Bit_Processor/16-Bit_Processor.srcs/sources_1/new/alu.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module alu
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/deept/16-Bit_Processor/16-Bit_Processor.srcs/sources_1/new/ctrl_unit.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ctrl_unit
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/deept/16-Bit_Processor/16-Bit_Processor.srcs/sources_1/new/fake_ram.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module fake_ram
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/deept/16-Bit_Processor/16-Bit_Processor.srcs/sources_1/new/inst_dec.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module inst_dec
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/deept/16-Bit_Processor/16-Bit_Processor.srcs/sources_1/new/pc_unit.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module pc_unit
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/deept/16-Bit_Processor/16-Bit_Processor.srcs/sources_1/new/reg_file.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module reg_file
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/deept/16-Bit_Processor/16-Bit_Processor.srcs/sim_1/new/main_test.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module main_test
