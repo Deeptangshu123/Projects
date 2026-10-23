@@ -1,0 +1,65 @@
+# ---------------------------------------------------------------
+# Vivado generated dirs (tracked: vivado/16-Bit_Processor.xpr only)
+# ---------------------------------------------------------------
+*.cache/
+*.hw/
+*.sim/
+*.ip_user_files/
+*.runs/
+*.gen/
+.Xil/
+
+# Vivado logs / journals / backups
+*.jou
+*.log
+*.str
+*.backup.jou
+*.backup.log
+vivado_pid*.str
+vivado_*.backup.*
+webtalk*.jou
+webtalk*.log
+usage_statistics_webtalk.*
+hs_err_pid*
+
+# ---------------------------------------------------------------
+# Simulation artifacts
+# ---------------------------------------------------------------
+*.wdb
+*.wcfg
+xsim.dir/
+xelab.*
+xvlog.*
+xsim.*
+webtalk/
+*.vcd
+*.fst
+*.vvp
+*.lxt
+work/
+transcript
+vsim.wlf
+modelsim.ini
+
+# ---------------------------------------------------------------
+# Synthesis / implementation outputs
+# ---------------------------------------------------------------
+*.dcp
+*.bit
+*.bin
+*.ltx
+*.mmi
+*.rpt
+*.rpx
+*.pb
+
+# ---------------------------------------------------------------
+# Editor / OS
+# ---------------------------------------------------------------
+.vscode/
+.idea/
+*.swp
+*~
+.DS_Store
+Thumbs.db
+desktop.ini
